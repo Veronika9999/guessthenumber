@@ -1,0 +1,19 @@
+@media (max-width: 375px){
+    .buttons button{
+        width: 48px;
+        height: 48px;
+        font-size: 30px;
+    }
+    h1{
+        font-size: 36px; 
+        line-height: 42px;
+    }
+    .attempt, .start{
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .buttons{
+        gap: 6px;
+        margin: 34px auto 0;
+    }
+}
